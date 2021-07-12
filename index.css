@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#addServer{
+    color:white;
+    background-color: blueviolet;
+    justify-content: center;
+    
+    
+}
+#addTask{
+    color:white;
+    background-color: blueviolet;
+    justify-content: center;
+    
+    border-radius: 3px 3px 3px 3px;
+}
+#removeServer{
+    color: blueviolet;
+}
+.btn{
+    margin-left: 50%;
+    margin-top: -10%;
+}
+#inp{
+    width: 40px;
+    margin-left: 50%;
+
+
+}
+#addTaskbtn{
+    margin-left: 50%;
+}
+/* .prrgba{
+    color: rgb(94, 104, 243);
+    height:24px ;
+    width:50%;
+    margin-left: 40%;
+    margin-top: 20%;
+} */
+#myProgress {
+    width: 100%;
+    border: 100%;
+  }
+  
+.myBar {
+      width: 1%;
+    height: 30px;
+    background-color: rgb(94, 104, 243);
+    margin-top: 10px;
+  } 
